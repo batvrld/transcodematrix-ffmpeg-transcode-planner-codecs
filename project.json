@@ -1,0 +1,40 @@
+{
+  "id": 100,
+  "category": "app-workflow",
+  "slug": "ffmpeg-transcode-planner",
+  "target": "FFmpeg",
+  "appid": null,
+  "summaryRu": "Планировщик воспроизводимых тестов перекодирования на копиях пользовательских медиа.",
+  "features": [
+    "Codec test matrix",
+    "Quality comparison notes",
+    "Output verification manifest"
+  ],
+  "title": "TranscodeMatrix — FFmpeg — Codecs",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "editorial-selection",
+      "sourceId": null,
+      "detail": "Editorial workflow selection; current popularity was not independently measured."
+    }
+  ],
+  "brand": "TranscodeMatrix",
+  "repositoryName": "transcodematrix-ffmpeg-transcode-planner-codecs",
+  "githubTopics": [
+    "ffmpeg",
+    "video-transcoding",
+    "quality-comparison",
+    "workflow-planning",
+    "application-tools",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "codecs"
+}
